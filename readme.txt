@@ -1,12 +1,8 @@
 # KinescopeGuiDownloader
-Это обновлённая версия  Программа для скачивания видео с Kinescope.
+Это обновлённая версия программа для скачивания видео с Kinescope из репозитория - https://github.com/Moaniya/GUI-kinescope_downloader-main.git.
 
 ## Установка
-1. Скачайте `KinescopeGuiDownloader.exe` из репозитория.
-2. Запустите файл `.exe`.
-
-## Установка
-1. Скачайте `KinescopeGuiDownloader.exe` из [Releases](ссылка).
+1. Скачайте `KinescopeGuiDownloader.exe` из репозитормя - https://github.com/Moaniya/GUI-kinescope_downloader_V_2.git.
 2. Скачайте `ffmpeg.exe` с https://github.com/FFmpeg/FFmpeg и поместите его в папку с `KinescopeGuiDownloader.exe`.
 3. Скачайте `mp4decrypt.exe` с https://www.bento4.com/downloads/ и поместите его в папку с `KinescopeGuiDownloader.exe`.
 4. Запустите `KinescopeGuiDownloader.exe`.
