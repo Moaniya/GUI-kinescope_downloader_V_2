@@ -2,7 +2,7 @@
 Это обновлённая версия программа для скачивания видео с Kinescope из репозитория - https://github.com/Moaniya/GUI-kinescope_downloader-main.git.
 
 ## Внимание.
-- Существует так же сборка которая включает в себя наличие файлов mp4decrypt и ffmpeg и для получения файла с кинескопа достаточно запустить только файл `KinescopeGuiDownloader.exe` - скачать данную сборку можно здесь - https://clck.ru/3LexnJ.
+- Существует так же сборка • GUI-kinescope_downloader_V_2.1 • которая включает в себя наличие файлов mp4decrypt и ffmpeg и для получения файла с кинескопа достаточно запустить только файл `KinescopeGuiDownloader.exe` - скачать данную сборку можно здесь - https://clck.ru/3LexnJ.
 
 ## Установка
 1. Скачайте `KinescopeGuiDownloader.exe` из репозитормя - https://github.com/Moaniya/GUI-kinescope_downloader_V_2.git.
